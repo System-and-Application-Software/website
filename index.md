@@ -2,8 +2,10 @@
 layout: default
 ---
 
-[//]: # ([Link to another page]&#40;./another-page.html&#41;.)
 [Учебный план](./sppo.pdf)
+
+[Научные руководители](./scientific-supervisors.html)
+
 
 # Блок "Программные системы"
 ## Архитектура программного обеспечения
