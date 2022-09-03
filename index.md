@@ -45,7 +45,7 @@ layout: default
 
 # Блок "IT-индустрия"
 ## Java-разработка
-### Лектор - компания Tune IT
+### Лектор - Клименков Сергей Викторович (Tune IT)
 
 Пока в процессе: [Java SE: Programming II](https://www.tune-it.ru/education/catalogue/-/catalogue/vendors/Oracle/Java/OJ11P2) или [Java SE 11: Programming Complete](https://www.tune-it.ru/education/catalogue/-/catalogue/vendors/Oracle/Java/OJPC).
 
